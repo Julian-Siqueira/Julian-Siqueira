@@ -22,11 +22,9 @@
 
 
 
-## My Skills
+## Habilidades Principais
 
-#### Main Stack:
-
-
+#### Linguagens:
 
 
 
@@ -34,19 +32,22 @@
 
 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 <img src="https://github.com/Julian-Siqueira/Julian-Siqueira/assets/156375264/79121b1f-1fba-4484-befa-cc7692982bfd" min-width="400px" max-width="350px" width="350px" align="right" alt="Julian">
 
-#### Secondary Stack:
+#### Tambem sei utilizar:
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estudo por meios:
 
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
