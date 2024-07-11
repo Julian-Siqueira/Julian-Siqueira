@@ -3,15 +3,19 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-❤️ "Mobile Maestro: Symphony of Apps in the Palm of your Hand." <br><br> 
-🚀 Passionate about Android development with Kotlin and Java.
-💡 Transforming ideas into incredible applications.
-📱 Specialized in creating intuitive and efficient mobile experiences.</p>&nbsp;
+❤️ "Sou um desenvolvedor mobile nativo apaixonado por criar aplicativos que façam a diferença na vida das pessoas." <br><br> 
+ 
+ O que você encontrará no meu GitHub:
+📱 Projetos de aplicativos móveis em Kotlin e Java
+🔄 Repositórios de estudo e experimentação com novas tecnologias
+📚 Anotações e exemplos de código de cursos e tutoriais que estou seguindo<br><br>
 
-<div  align="center" style="margin-bottom:100px">
+💡Atualmente, estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente</p>&nbsp;
+
+<div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Julian-Siqueira&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Siqueira&show_icons=true&theme=tokyonight&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
