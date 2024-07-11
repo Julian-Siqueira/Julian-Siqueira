@@ -5,7 +5,7 @@
 <p align="center">
 ❤️ "Sou um desenvolvedor mobile nativo apaixonado por criar aplicativos que façam a diferença na vida das pessoas." <br><br> 
  
- O que você encontrará no meu GitHub:<br>
+#O que você encontrará no meu GitHub:<br>
 📱 Projetos de aplicativos móveis em Kotlin e Java<br>
 🔄 Repositórios de estudo e experimentação com novas tecnologias<br>
 📚 Anotações e exemplos de código de cursos e tutoriais que estou seguindo<br><br>
