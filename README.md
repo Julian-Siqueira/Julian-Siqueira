@@ -6,7 +6,6 @@
 ❤️ "Sou um desenvolvedor mobile nativo apaixonado por criar aplicativos que façam a diferença na vida das pessoas." <br><br> 
  
 #### O que você encontrará no meu GitHub:<br>
-&nbsp;
 -📱 Projetos de aplicativos móveis em Kotlin e Java<br>
 -🔄 Repositórios de estudo e experimentação com novas tecnologias<br>
 -📚 Anotações e exemplos de código de cursos e tutoriais que estou seguindo<br><br>
@@ -23,19 +22,9 @@
  &nbsp;
  &nbsp;
 
-
-
 ## Habilidades Principais
 
 #### Linguagens:
-
-
-
-
-
-
-
-
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -77,8 +66,5 @@
 <a href = "mailto:contato.juliansiqueiradev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
 <img width=100% src="https://github.com/Julian-Siqueira/Julian-Siqueira/assets/156375264/e15a5502-2a99-4b0e-bd72-7fd441e756c0"/>
