@@ -1,7 +1,6 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Julian-Siqueira/Julian-Siqueira/assets/156375264/0ac8339d-bc88-4eca-a009-7582155b2a6c" />
 &nbsp;&nbsp;&nbsp;
-
 <p align="center">
 
 #### Sobre mim:<br>
