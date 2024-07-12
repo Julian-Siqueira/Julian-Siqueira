@@ -6,8 +6,8 @@
  "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
 
 #### Sobre Mim:<br>
--:earth_africa: Sou de Barra Mansa | RJ<br>
--:grin: Tenho 30 anos<br>
+-🌍 Sou de Barra Mansa | RJ<br>
+-🧐 Tenho 30 anos<br>
 -👨‍💻 Sou um desenvolvedor de aplicativos móveis | Kotlin e Java<br>
 -🎯 Estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar e expandir minhas habilidades.<br>
 
