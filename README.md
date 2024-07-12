@@ -4,6 +4,12 @@
 
 <p align="center">
 ❤️ "Sou um desenvolvedor mobile nativo apaixonado por criar aplicativos que façam a diferença na vida das pessoas." <br><br> 
+
+#### Sobre Mim:<br>
+-👨‍💻Sou um desenvolvedor de aplicativos móveis | Kotlin e Java
+**Focado em Kotlin e Java**
+Estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar e expandir minhas habilidades.
+
  
 #### O que você encontrará no meu GitHub:<br>
 -📱 Projetos de aplicativos móveis em Kotlin e Java<br>
