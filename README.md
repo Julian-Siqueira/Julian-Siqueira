@@ -15,8 +15,6 @@
 -🔄 Repositórios de estudo e experimentação com novas tecnologias<br>
 -📚 Anotações e exemplos de código de cursos e tutoriais que estou seguindo<br><br>
 
-💡Atualmente, estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente</p>&nbsp;
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julian-Siqueira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas:" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julian-Siqueira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2&custom_title=Minhas%20Linguagens%20Utilizadas:" height="150" alt="languages graph"  />
