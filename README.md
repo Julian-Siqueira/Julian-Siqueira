@@ -3,12 +3,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-❤️ "Sou um desenvolvedor mobile nativo apaixonado por criar aplicativos que façam a diferença na vida das pessoas." <br><br> 
+❤️ "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
 
 #### Sobre Mim:<br>
--👨‍💻Sou um desenvolvedor de aplicativos móveis | Kotlin e Java
-**Focado em Kotlin e Java**
-Estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar e expandir minhas habilidades.
+-👨‍💻 Sou um desenvolvedor de aplicativos móveis | Kotlin e Java<br>
+-🎯 Estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar e expandir minhas habilidades.<br>
 
  
 #### O que você encontrará no meu GitHub:<br>
