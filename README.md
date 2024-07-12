@@ -3,11 +3,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-:earth_africa: "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
+ "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
 
 #### Sobre Mim:<br>
-- Sou de Barra Mansa | RJ
-- Tenho 30 anos
+-:earth_africa: Sou de Barra Mansa | RJ
+-:grin:Tenho 30 anos
 -👨‍💻 Sou um desenvolvedor de aplicativos móveis | Kotlin e Java<br>
 -🎯 Estou em busca da minha primeira oportunidade como desenvolvedor júnior para aplicar e expandir minhas habilidades.<br>
 
