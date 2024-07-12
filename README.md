@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
- "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
 
 #### Sobre mim:<br>
 -🌍 Sou de Barra Mansa | RJ<br>
