@@ -3,9 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
- "De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo." <br><br> 
+ **"De linhas de código a aplicativos de alto desempenho: o poder do desenvolvimento nativo."** <br><br> 
 
-#### Sobre Mim:<br>
+#### Sobre mim:<br>
 -🌍 Sou de Barra Mansa | RJ<br>
 -🧐 Tenho 30 anos<br>
 -👨‍💻 Sou um desenvolvedor de aplicativos móveis | Kotlin e Java<br>
