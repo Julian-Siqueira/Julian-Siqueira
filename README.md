@@ -11,8 +11,8 @@
 
  
 #### O que você encontrará no meu GitHub:<br>
--📱 Projetos de aplicativos móveis em Kotlin e Java<br>
--🔄 Repositórios de estudo e experimentação com novas tecnologias<br>
+-📱 Projetos de aplicativos móveis em Kotlin e Java (Projeto-)<br>
+-🔄 Repositórios de estudo e experimentação com novas tecnologias (Estudos-)<br>
 -📚 Anotações e exemplos de código de cursos e tutoriais que estou seguindo<br><br>
 
 <div align="center">
